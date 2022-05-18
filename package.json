@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:clientLogin": "npx cypress open && cypress run --spec \"cypress/integration/testCAses/*\" --reporter mocha-allure-reporter --headed",
+    "report:allure": " allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "test:allure": "npm run cy:clientLogin || npm run report:allure"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^2.26.5",
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.17.2",
+    "cypress-file-upload": "^5.0.8",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}

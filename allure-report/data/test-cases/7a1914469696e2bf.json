@@ -1,0 +1,48 @@
+{
+  "uid" : "7a1914469696e2bf",
+  "name" : "Apply Leave in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Apply Leave in OrangeHRM",
+  "historyId" : "d8f37462113f4f1882cc221388cc9066",
+  "time" : {
+    "start" : 1652712975059,
+    "stop" : 1652712991502,
+    "duration" : 16443
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Apply Leave in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a1914469696e2bf.json",
+  "parameterValues" : [ ]
+}

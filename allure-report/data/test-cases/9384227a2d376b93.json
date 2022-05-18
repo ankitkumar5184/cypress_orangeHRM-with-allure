@@ -1,0 +1,93 @@
+{
+  "uid" : "9384227a2d376b93",
+  "name" : "Add User in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Add User in OrangeHRM",
+  "historyId" : "a68a47b32e7e536e3ae46a6c356c6848",
+  "time" : {
+    "start" : 1652796451891,
+    "stop" : 1652796474733,
+    "duration" : 22842
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add User in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5222c55d8342293d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652739095956,
+        "stop" : 1652739110958,
+        "duration" : 15002
+      }
+    }, {
+      "uid" : "a7b0c496e114cb82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652712926262,
+        "stop" : 1652712946858,
+        "duration" : 20596
+      }
+    }, {
+      "uid" : "754b6914203e317e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652482631104,
+        "stop" : 1652482647707,
+        "duration" : 16603
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "dd4bea4cc5556f77",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652482631104,
+          "stop" : 1652482647707,
+          "duration" : 16603
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9384227a2d376b93.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "5222c55d8342293d",
+  "name" : "Add User in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Add User in OrangeHRM",
+  "historyId" : "a68a47b32e7e536e3ae46a6c356c6848",
+  "time" : {
+    "start" : 1652739095956,
+    "stop" : 1652739110958,
+    "duration" : 15002
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add User in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5222c55d8342293d.json",
+  "parameterValues" : [ ]
+}

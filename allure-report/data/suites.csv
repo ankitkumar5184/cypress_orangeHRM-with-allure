@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 17 19:37:57 IST 2022","Tue May 17 19:38:17 IST 2022","20629","","Page object Model in Cypress","","Page object Model in Cypress","Delete User in OrangeHRM","Delete User in OrangeHRM",""
+"failed","Tue May 17 19:38:46 IST 2022","Tue May 17 19:39:27 IST 2022","41166","","Page object Model in Cypress","","Page object Model in Cypress","Recruitment in OrangeHRM","Recruitment in OrangeHRM",""
+"passed","Tue May 17 19:38:22 IST 2022","Tue May 17 19:38:42 IST 2022","20450","","Page object Model in Cypress","","Page object Model in Cypress","Apply Leave in OrangeHRM","Apply Leave in OrangeHRM",""
+"passed","Tue May 17 19:37:31 IST 2022","Tue May 17 19:37:54 IST 2022","22842","","Page object Model in Cypress","","Page object Model in Cypress","Add User in OrangeHRM","Add User in OrangeHRM",""
+"passed","Tue May 17 19:37:13 IST 2022","Tue May 17 19:37:29 IST 2022","15893","","Page object Model in Cypress","","Page object Model in Cypress","Login with valid credentials in OrangeHRM","Login with valid credentials in OrangeHRM",""

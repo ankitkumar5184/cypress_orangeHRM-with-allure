@@ -1,0 +1,93 @@
+{
+  "uid" : "d1e4454b81bb90e2",
+  "name" : "Apply Leave in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Apply Leave in OrangeHRM",
+  "historyId" : "d8f37462113f4f1882cc221388cc9066",
+  "time" : {
+    "start" : 1652796502354,
+    "stop" : 1652796522804,
+    "duration" : 20450
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Apply Leave in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a72fa7df55d92730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652739159996,
+        "stop" : 1652739176250,
+        "duration" : 16254
+      }
+    }, {
+      "uid" : "7a1914469696e2bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652712975059,
+        "stop" : 1652712991502,
+        "duration" : 16443
+      }
+    }, {
+      "uid" : "4bde42517f6a8c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652482698331,
+        "stop" : 1652482716340,
+        "duration" : 18009
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "78281d6a2d05210a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652482698331,
+          "stop" : 1652482716340,
+          "duration" : 18009
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d1e4454b81bb90e2.json",
+  "parameterValues" : [ ]
+}

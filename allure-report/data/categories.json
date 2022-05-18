@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out retrying after 4000ms: expected 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/24' to equal 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/33'",
+      "children" : [ {
+        "name" : "Recruitment in OrangeHRM",
+        "uid" : "46d66808106fd35c",
+        "parentUid" : "a1840775ed1b26d743f3eef7679cc39b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652796526307,
+          "stop" : 1652796567473,
+          "duration" : 41166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1840775ed1b26d743f3eef7679cc39b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

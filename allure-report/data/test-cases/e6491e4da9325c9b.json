@@ -1,0 +1,48 @@
+{
+  "uid" : "e6491e4da9325c9b",
+  "name" : "Recruitment in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Recruitment in OrangeHRM",
+  "historyId" : "1aa76b51fb0bb87993ec98f3be84f94f",
+  "time" : {
+    "start" : 1652739178298,
+    "stop" : 1652739207206,
+    "duration" : 28908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Recruitment in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6491e4da9325c9b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "46d66808106fd35c",
+  "name" : "Recruitment in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Recruitment in OrangeHRM",
+  "historyId" : "1aa76b51fb0bb87993ec98f3be84f94f",
+  "time" : {
+    "start" : 1652796526307,
+    "stop" : 1652796567473,
+    "duration" : 41166
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: expected 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/24' to equal 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/33'",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/24' to equal 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/addCandidate/id/33'\n                    at RecruitmentPage.clickSAve (https://opensource-demo.orangehrmlive.com/__cypress/tests?p=cypress\\integration\\testCAses\\TC_005_Recruitment_Page.js:226:14)\n                    at Context.eval (https://opensource-demo.orangehrmlive.com/__cypress/tests?p=cypress\\integration\\testCAses\\TC_005_Recruitment_Page.js:270:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Recruitment in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6491e4da9325c9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652739178298,
+        "stop" : 1652739207206,
+        "duration" : 28908
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "46d66808106fd35c.json",
+  "parameterValues" : [ ]
+}

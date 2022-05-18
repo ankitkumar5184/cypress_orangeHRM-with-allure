@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652712975058' stop='1652712991503'>
+    <name>Page object Model in Cypress</name>
+    <title>Page object Model in Cypress</title>
+    <test-cases>
+        <test-case start='1652712975059' status='passed' stop='1652712991502'>
+            <name>Apply Leave in OrangeHRM</name>
+            <title>Apply Leave in OrangeHRM</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

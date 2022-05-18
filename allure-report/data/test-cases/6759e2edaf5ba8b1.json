@@ -1,0 +1,48 @@
+{
+  "uid" : "6759e2edaf5ba8b1",
+  "name" : "Login with valid credentials in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Login with valid credentials in OrangeHRM",
+  "historyId" : "ad9f6e4de8855c2501bf122c7c95205",
+  "time" : {
+    "start" : 1652739082867,
+    "stop" : 1652739094419,
+    "duration" : 11552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login with valid credentials in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6759e2edaf5ba8b1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,94 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Page object Model in Cypress",
+    "children" : [ {
+      "name" : "Login with valid credentials in OrangeHRM",
+      "uid" : "567c67a7698695be",
+      "parentUid" : "f38f2ab7692b9be008d18fe04b583bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652796433657,
+        "stop" : 1652796449550,
+        "duration" : 15893
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add User in OrangeHRM",
+      "uid" : "9384227a2d376b93",
+      "parentUid" : "f38f2ab7692b9be008d18fe04b583bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652796451891,
+        "stop" : 1652796474733,
+        "duration" : 22842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Delete User in OrangeHRM",
+      "uid" : "bde9d560577e4445",
+      "parentUid" : "f38f2ab7692b9be008d18fe04b583bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652796477319,
+        "stop" : 1652796497948,
+        "duration" : 20629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : true,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Apply Leave in OrangeHRM",
+      "uid" : "d1e4454b81bb90e2",
+      "parentUid" : "f38f2ab7692b9be008d18fe04b583bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652796502354,
+        "stop" : 1652796522804,
+        "duration" : 20450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Recruitment in OrangeHRM",
+      "uid" : "46d66808106fd35c",
+      "parentUid" : "f38f2ab7692b9be008d18fe04b583bf4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652796526307,
+        "stop" : 1652796567473,
+        "duration" : 41166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f38f2ab7692b9be008d18fe04b583bf4"
+  } ]
+}

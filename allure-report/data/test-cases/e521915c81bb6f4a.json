@@ -1,0 +1,50 @@
+{
+  "uid" : "e521915c81bb6f4a",
+  "name" : "Delete User in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Delete User in OrangeHRM",
+  "historyId" : "1b093dd2c0969216bf6ead40d0e8e8f3",
+  "time" : {
+    "start" : 1652482649472,
+    "stop" : 1652482696602,
+    "duration" : 47130
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "`cy.screenshot()` timed out waiting `30000ms` to complete.",
+  "statusTrace" : "CypressError: `cy.screenshot()` timed out waiting `30000ms` to complete.\n                    at https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:165568:81\n                    at tryCatcher (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:13022:23)\n                    at https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:8144:41\n                    at tryCatcher (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:13022:23)\n                    at Promise._settlePromiseFromHandler (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:10957:31)\n                    at Promise._settlePromise (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:11014:18)\n                    at Promise._settlePromise0 (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:11059:10)\n                    at Promise._settlePromises (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:11135:18)\n                    at _drainQueueStep (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:7729:12)\n                    at _drainQueue (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:7722:9)\n                    at Async.../../node_modules/bluebird/js/release/async.js.Async._drainQueues (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:7738:5)\n                    at Async.drainQueues (https://opensource-demo.orangehrmlive.com/__cypress/runner/cypress_runner.js:7608:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Delete User in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e521915c81bb6f4a.json",
+  "parameterValues" : [ ]
+}

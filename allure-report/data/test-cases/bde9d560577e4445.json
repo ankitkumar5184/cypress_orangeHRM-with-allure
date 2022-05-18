@@ -1,0 +1,97 @@
+{
+  "uid" : "bde9d560577e4445",
+  "name" : "Delete User in OrangeHRM",
+  "fullName" : "Page object Model in Cypress.Delete User in OrangeHRM",
+  "historyId" : "1b093dd2c0969216bf6ead40d0e8e8f3",
+  "time" : {
+    "start" : 1652796477319,
+    "stop" : 1652796497948,
+    "duration" : 20629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : true,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "Delete User in OrangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Page object Model in Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "70b6a418686470dc",
+      "status" : "broken",
+      "statusDetails" : "`cy.screenshot()` timed out waiting `30000ms` to complete.",
+      "time" : {
+        "start" : 1652739112750,
+        "stop" : 1652739157989,
+        "duration" : 45239
+      }
+    }, {
+      "uid" : "cc3d0bc98fb5a18a",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `input[value='58']`, but never found it.",
+      "time" : {
+        "start" : 1652712949853,
+        "stop" : 1652712969700,
+        "duration" : 19847
+      }
+    }, {
+      "uid" : "e521915c81bb6f4a",
+      "status" : "broken",
+      "statusDetails" : "`cy.screenshot()` timed out waiting `30000ms` to complete.",
+      "time" : {
+        "start" : 1652482649472,
+        "stop" : 1652482696602,
+        "duration" : 47130
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "de4d86fd66c3127b",
+        "status" : "broken",
+        "statusDetails" : "`cy.screenshot()` timed out waiting `30000ms` to complete.",
+        "time" : {
+          "start" : 1652482649472,
+          "stop" : 1652482696602,
+          "duration" : 47130
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bde9d560577e4445.json",
+  "parameterValues" : [ ]
+}
